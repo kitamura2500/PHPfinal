@@ -1,0 +1,17 @@
+代表的なのだけ書きました
+
+■.env
+
+■cms->views
+books.blade.php
+booksedit.blade.php
+commonファイル内
+　errors.blade.php
+layoutsファイル内
+　app.blade.php
+
+■cms->Http->Controllers
+BooksController.php
+
+■cms->routes
+web.php
